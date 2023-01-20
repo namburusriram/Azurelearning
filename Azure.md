@@ -7,3 +7,9 @@ create a resource Group & go to that resource group
 
 
 TASK - 2 
+
+create 2 vnets in differ regions
+--> create 2vm in each reagion
+ --> Go to vnet and click on that
+ -->Go to Peering & click on Add (+) symbol
+ --> from particular machine to particular machine
